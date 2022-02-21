@@ -20,7 +20,7 @@ A seguintes ferramenta foi usada na construção desse projeto:
 Pré-requisitos: Java 17
 ```bash
 # Clonar repositório
-https://github.com/Vivian-Spectra/desafioexone.git
+https://github.com/Vivian-Spectra/desafioextwo.git
 # Entrar no arquivo do projeto
 Main.Java
 # Executar o projeto
